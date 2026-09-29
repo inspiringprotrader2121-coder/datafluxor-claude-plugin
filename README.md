@@ -23,7 +23,7 @@ Then run `/mcp`, choose `datafluxor` and select Authenticate. A DataFluxor plan 
 ## What you get
 
 - The `datafluxor` MCP server: Google SERP results, autocomplete suggestions, index checks, a bounded technical SEO crawler, page metadata extraction, SERP volatility, competitor keyword gap, AI Overview visibility, and retained background runs.
-- The `datafluxor:seo-research` skill (tool choice and how to report results honestly) and the `datafluxor:datafluxor-cli` skill (for the optional `datafluxor` command-line tool).
+- The `datafluxor:seo-research` skill for choosing tools and reporting results accurately.
 
 ## Links
 
