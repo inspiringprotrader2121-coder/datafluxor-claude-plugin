@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "datafluxor": {
+      "type": "http",
+      "url": "https://datafluxor.com/mcp"
+    }
+  }
+}

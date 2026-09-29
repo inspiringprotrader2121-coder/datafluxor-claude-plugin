@@ -1,0 +1,12 @@
+{
+  "name": "datafluxor",
+  "version": "0.1.0",
+  "description": "Run authorized Google SERP, SEO and AI-search visibility research through DataFluxor's remote MCP server, with workflow skills.",
+  "author": {
+    "name": "DataFluxor",
+    "email": "support@datafluxor.com",
+    "url": "https://datafluxor.com"
+  },
+  "homepage": "https://datafluxor.com/mcp-for-seo",
+  "keywords": ["seo", "serp", "search", "scraping", "mcp"]
+}

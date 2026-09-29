@@ -1,0 +1,15 @@
+{
+  "name": "datafluxor",
+  "description": "DataFluxor plugins for Claude Code: Google SERP, SEO and AI-search visibility research through the hosted DataFluxor MCP server.",
+  "owner": {
+    "name": "DataFluxor",
+    "email": "support@datafluxor.com"
+  },
+  "plugins": [
+    {
+      "name": "datafluxor",
+      "source": "./plugins/datafluxor",
+      "description": "Run authorized Google SERP, SEO and AI-search visibility research through DataFluxor's remote MCP server, with workflow skills."
+    }
+  ]
+}
